@@ -18,7 +18,7 @@
 
 ### 15:00-16:00 UT
 
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### 16:00-17:00 UT
 
