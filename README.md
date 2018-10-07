@@ -16,17 +16,9 @@
 
 ## Azimuth vs. Velocity Polarplots of Medium Scale TIDs characterisitics, from CORS GNSS network, 2017233, all GPS satellites.
 
-### 15:00-16:00 UT
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-### 16:00-17:00 UT
-
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
-
 ### 17:00-18:00 UT
 
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
+![alt text](Grid_Bow_Wave_Disp_3x7_MSTID_deNoise_polarplots_CORS_2017233_ele05_UT1700_2200_Delta60min_Wlenthd600_PQF10_MWeig10_UTH17.png "Logo Title Text 1")
 
 ### 18:00-19:00 UT
 
