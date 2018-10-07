@@ -4,15 +4,15 @@
 
 ### The detrended VTEC map, GPS satellite PRN 2.
 
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
+[![Ionospheric disturbance movie](http://img.youtube.com/vi/g1IQnLBX6cc/0.jpg)](http://www.youtube.com/watch?v=g1IQnLBX6cc "Ionospheric disturbance movie")
 
 ### The detrended VTEC map, GPS satellite PRN 12.
 
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
+[![Ionospheric disturbance movie](http://img.youtube.com/vi/O8eYn-0jLX4/0.jpg)](http://www.youtube.com/watch?v=O8eYn-0jLX4 "Ionospheric disturbance movie")
 
 ### The detrended VTEC map, all GPS satellites.
 
-[![Ionospheric disturbance movie](http://img.youtube.com/vi/04Nc5xKAiY0/0.jpg)](http://www.youtube.com/watch?v=04Nc5xKAiY0 "Ionospheric disturbance movie")
+[![Ionospheric disturbance movie](http://img.youtube.com/vi/zsWsSRD3bcQ/0.jpg)](http://www.youtube.com/watch?v=zsWsSRD3bcQ "Ionospheric disturbance movie")
 
 ## Azimuth vs. Velocity Polarplots of Medium Scale TIDs characterisitics, from CORS GNSS network, 2017233, all GPS satellites.
 
